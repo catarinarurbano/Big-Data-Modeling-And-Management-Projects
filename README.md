@@ -1,3 +1,4 @@
-# Big_Data_Modeling_And_Management_Projects
+# Big Data Modeling And Management Projects
 
-Objective: answering questions in the field of graph databases (neo4j) and NoSQL databases (MongoDB).
+## Objective
+Answering questions in the field of graph databases (neo4j) and NoSQL databases (MongoDB).
